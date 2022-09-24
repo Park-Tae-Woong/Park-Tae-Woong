@@ -1,8 +1,8 @@
 <div align="center">
-  Hello! I'm TaeWoong!
+  #Hello! I'm TaeWoong!
 </div>
 <div align="center">
-  📚STACKS📚
+  ###📚STACKS📚
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-FF0000?style=for-the-badge&logoo=IntelliJ IDEA&logoColor=white"/>
