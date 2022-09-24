@@ -3,7 +3,9 @@
 </center>
 <br/> <br/> <br/>
 
-  ### 📚STACKS📚
+<center>
+  📚STACKS📚
+</center>
 
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-FF0000?style=for-the-badge&logoo=IntelliJ IDEA&logoColor=white"/>
