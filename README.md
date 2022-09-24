@@ -1,9 +1,9 @@
-<div align="center">
+
   # Hello! I'm TaeWoong!
-</div>
-<div align="center">
+
+
   ### 📚STACKS📚
-</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-FF0000?style=for-the-badge&logoo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logoo=java&logoColor=white"/>
