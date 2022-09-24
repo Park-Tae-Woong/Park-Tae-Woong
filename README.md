@@ -1,7 +1,7 @@
-<center>Hello! I'm TaeWoong!</center>
+<div align="center">Hello! I'm TaeWoong!</div>
 <br/> <br/> <br/>
 
-<center>📚STACKS📚</center>
+<div align="center"><center>📚STACKS📚</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-FF0000?style=for-the-badge&logoo=IntelliJ IDEA&logoColor=white"/>
